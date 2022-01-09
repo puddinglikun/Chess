@@ -22,6 +22,7 @@ ExportedObj/
   
 # Unity3D generated meta files  
 *.pidb.meta  
+*.meta
   
 # Unity3D Generated File On Crash Reports  
 sysinfo.txt  
@@ -29,4 +30,6 @@ sysinfo.txt
 # Builds  
 *.apk  
 *.unitypackage  
-/.vs/.
+.vs/
+.vs/Chess/v15/Server/sqlite3/storage.ide-shm
+.vs/Chess/v15/Server/sqlite3/storage.ide-wal
