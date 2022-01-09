@@ -33,3 +33,6 @@ sysinfo.txt
 .vs/
 .vs/Chess/v15/Server/sqlite3/storage.ide-shm
 .vs/Chess/v15/Server/sqlite3/storage.ide-wal
+~$*.xlsx
+~$*.docx
+/Packages/
